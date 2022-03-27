@@ -1,0 +1,11 @@
+#requirements.txt
+
+collatex
+python-levenshtein
+graphviz
+lxml
+numpy
+pydot
+os
+io
+json

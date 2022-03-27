@@ -1,0 +1,119 @@
+digraph {
+	graph [rankdir=LR]
+	1 [label=start]
+	2 [label=end]
+	3 [label=mais1]
+	4 [label="a3+le"]
+	5 [label=povre]
+	6 [label=ome]
+	7 [label=devoir]
+	8 [label=le]
+	9 [label=on]
+	10 [label=doner]
+	11 [label=tel]
+	12 [label=chose]
+	13 [label=qui]
+	14 [label=estre1]
+	15 [label=plus]
+	16 [label=bon]
+	17 [label=que1]
+	18 [label=bel]
+	19 [label=doner]
+	1 -> 3 [label="A, B, C"]
+	3 -> 4 [label="A, B, C"]
+	4 -> 5 [label="A, B, C"]
+	5 -> 6 [label="A, B, C"]
+	6 -> 7 [label="A, B, C"]
+	7 -> 8 [label="A, C"]
+	7 -> 9 [label=B]
+	8 -> 9 [label="A, C"]
+	9 -> 10 [label="A, C"]
+	9 -> 11 [label=B]
+	10 -> 11 [label="A, C"]
+	11 -> 12 [label="A, B, C"]
+	12 -> 13 [label="A, C"]
+	12 -> 19 [label=B]
+	13 -> 14 [label="A, B, C"]
+	14 -> 15 [label="A, B, C"]
+	15 -> 16 [label="A, B, C"]
+	16 -> 17 [label="A, B, C"]
+	17 -> 18 [label="A, B, C"]
+	18 -> 2 [label="A, B, C"]
+	19 -> 13 [label=B]
+	{
+		graph [rank=same]
+		1
+	}
+	{
+		graph [rank=same]
+		3
+	}
+	{
+		graph [rank=same]
+		4
+	}
+	{
+		graph [rank=same]
+		5
+	}
+	{
+		graph [rank=same]
+		6
+	}
+	{
+		graph [rank=same]
+		7
+	}
+	{
+		graph [rank=same]
+		8
+	}
+	{
+		graph [rank=same]
+		9
+	}
+	{
+		graph [rank=same]
+		10
+	}
+	{
+		graph [rank=same]
+		11
+	}
+	{
+		graph [rank=same]
+		12
+	}
+	{
+		graph [rank=same]
+		19
+	}
+	{
+		graph [rank=same]
+		13
+	}
+	{
+		graph [rank=same]
+		14
+	}
+	{
+		graph [rank=same]
+		15
+	}
+	{
+		graph [rank=same]
+		16
+	}
+	{
+		graph [rank=same]
+		17
+	}
+	{
+		graph [rank=same]
+		18
+	}
+	{
+		graph [rank=same]
+		2
+	}
+}

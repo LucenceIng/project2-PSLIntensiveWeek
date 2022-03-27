@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+    <text xml:lang="fr">
+        <body xml:lang="fro">
+            <div>
+                <ab>
+               
+                        <w xml:id="t1305" n="1305" lemma="öir" pos="VERinf" msd="MORPH=empty" >oir</w>
+                        <w xml:id="t1306" n="1306" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f|CAS=r" >la</w>
+                        <w xml:id="t1307" n="1307" lemma="messe" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >messe</w>
+                        <w xml:id="t1308" n="1308" lemma="si" pos="ADVgen" msd="DEGRE=-" >Si</w>
+                        <w xml:id="t1309" n="1309" lemma="ceindre" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s" >ceint</w>
+                        <w xml:id="t1310" n="1310" lemma="monseignor" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >messire</w>
+                        <w xml:id="t1311" n="1311" lemma="en1" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n" >g</w>
+                        <w xml:id="t1312" n="1312" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r" >au</w>
+                        <w xml:id="t1313" n="1313" lemma="valabre" pos="VERcjg" msd="NOMB.=s|GENRE=m|CAS=r" >uarlet</w>
+                        <w xml:id="t1314" n="1314" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f|CAS=r" >l</w>
+                        <w xml:id="t1315" n="1315" lemma="espee" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >espee</w>
+                        <w xml:id="t1316" n="1316" lemma="et" pos="CONcoo" msd="MORPH=empty" >et</w>
+                        <w xml:id="t1317" n="1317" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i" >lui</w>
+                        <w xml:id="t1318" n="1318" lemma="chaucier1" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >chausa</w>
+                        <w xml:id="t1319" n="1319" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=r" >le</w>
+                        <w xml:id="t1320" n="1320" lemma="destre" pos="ADJqua" msd="NOMB.=s|GENRE=m|CAS=r|DEGRE=p" >destre</w>
+                        <w xml:id="t1321" n="1321" lemma="esperon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >esperon</w>
+                        <w xml:id="t1322" n="1322" lemma="si" pos="ADVgen" msd="DEGRE=-" >si</w>
+                        <w xml:id="t1323" n="1323" lemma="come1" pos="CONsub" msd="MORPH=empty" >comme</w>
+                        <w xml:id="t1324" n="1324" lemma="il" pos="PROimp" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1325" n="1325" lemma="estre1" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s" >estoit</w>
+                        <w xml:id="t1326" n="1326" lemma="costume" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=n" >coustume</w>
+                        <w xml:id="t1327" n="1327" lemma="mais1" pos="CONcoo" msd="DEGRE=-" >mais</w>
+                        <w xml:id="t1328" n="1328" lemma="ainçois" pos="ADVgen" msd="MORPH=empty" >aincois</w>
+                        <w xml:id="t1329" n="1329" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i" >lui</w>
+                        <w xml:id="t1330" n="1330" lemma="demander" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >demanda</w>
+                        <w xml:id="t1331" n="1331" lemma="son4" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r" >son</w>
+                        <w xml:id="t1332" n="1332" lemma="nom" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >nom</w>
+                        <w xml:id="t1333" n="1333" lemma="et" pos="CONcoo" msd="MORPH=empty" >et</w>
+                        <w xml:id="t1334" n="1334" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1335" n="1335" lemma="il" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >luy</w>
+                        <w xml:id="t1336" n="1336" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >dist</w>
+                        <w xml:id="t1337" n="1337" lemma="que4" pos="CONsub" msd="MORPH=empty" >qu</w>
+                        <w xml:id="t1338" n="1338" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1339" n="1339" lemma="aler" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s" >auoit</w>
+                        <w xml:id="t1340" n="1340" lemma="nom" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >nom</w>
+                        <w xml:id="t1341" n="1341" lemma="Helent" pos="NOMpro" msd="NOMB.=s|GENRE=m|CAS=r" >helain</w>
+                        <w xml:id="t1342" n="1342" lemma="de" pos="PRE" msd="MORPH=empty" >de</w>
+                        <w xml:id="t1343" n="1343" lemma="changier" pos="NOMcom" msd="NOMB.=p|GENRE=f|CAS=r" >caningues</w>
+                        <w xml:id="t1344" n="1344" lemma="que4" pos="PROrel" msd="MORPH=empty" >Q</w>
+                        <w xml:id="t1345" n="1345" lemma="avant" pos="VERcjg" msd="MODE=ind" >uant</w>
+                        <w xml:id="t1346" n="1346" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1347" n="1347" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i" >lui</w>
+                        <w xml:id="t1348" n="1348" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >ot</w>
+                        <w xml:id="t1349" n="1349" lemma="doner" pos="VERppe" msd="NOMB.=s|GENRE=f" >donne</w>
+                        <w xml:id="t1350" n="1350" lemma="il" pos="DETdef" msd="NOMB.=s|GENRE=f|CAS=r" >l</w>
+                        <w xml:id="t1351" n="1351" lemma="ordener" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >ordonne</w>
+                        <w xml:id="t1352" n="1352" lemma="de" pos="PRE" msd="MORPH=empty" >de</w>
+                        <w xml:id="t1353" n="1353" lemma="chevalerie" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >cheualerie</w>
+                        <w xml:id="t1354" n="1354" lemma="si" pos="ADVgen" msd="DEGRE=-" >si</w>
+                        <w xml:id="t1355" n="1355" lemma="come1" pos="CONsub" msd="MORPH=empty" >comme</w>
+                        <w xml:id="t1356" n="1356" lemma="droiture" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=n" >droicture</w>
+                        <w xml:id="t1357" n="1357" lemma="restre" pos="ADVneg" msd="GENRE=m" >re</w>
+                        <w xml:id="t1358" n="1358" lemma="querre" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s" >queroit</w>
+                        <w xml:id="t1359" n="1359" lemma="et" pos="CONcoo" msd="MORPH=empty" >et</w>
+                        <w xml:id="t1360" n="1360" lemma="il" pos="PROper" msd="NOMB.=p|GENRE=m|CAS=n" >ilz</w>
+                        <w xml:id="t1361" n="1361" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p" >orent</w>
+                        <w xml:id="t1362" n="1362" lemma="en1" pos="NOMcom" msd="NOMB.=s" >ouy</w>
+                        <w xml:id="t1363" n="1363" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=r" >le</w>
+                        <w xml:id="t1364" n="1364" lemma="servise" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >seruice</w>
+                        <w xml:id="t1365" n="1365" lemma="si" pos="ADVgen" msd="DEGRE=-" >si</w>
+                        <w xml:id="t1366" n="1366" lemma="demander" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >demanda</w>
+                        <w xml:id="t1367" n="1367" lemma="seignor" pos="NOMcom" msd="NOMB.=s|CAS=r" >messire</w>
+                        <w xml:id="t1368" n="1368" lemma="je" pos="PROper" msd="GENRE=f|CAS=n" >g</w>
+                        <w xml:id="t1369" n="1369" lemma="son4" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=f|CAS=r" >ses</w>
+                        <w xml:id="t1370" n="1370" lemma="arme" pos="NOMcom" msd="NOMB.=p|GENRE=f|CAS=r" >armes</w>
+                        <w xml:id="t1371" n="1371" lemma="et" pos="CONcoo" msd="MORPH=empty" >et</w>
+                        <w xml:id="t1372" n="1372" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=r" >le</w>
+                        <w xml:id="t1373" n="1373" lemma="no1" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >nou</w>
+                        <w xml:id="t1374" n="1374" lemma="ueil" pos="NOMcom" msd="MODE=ind|NOMB.=s|GENRE=m|CAS=n" >ueau</w>
+                        <w xml:id="t1375" n="1375" lemma="chevalier" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >cheualier</w>
+                        <w xml:id="t1376" n="1376" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i" >lui</w>
+                        <w xml:id="t1377" n="1377" lemma="requerre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s" >requiert</w>
+                        <w xml:id="t1378" n="1378" lemma="que4" pos="CONsub" msd="MORPH=empty" >qu</w>
+                        <w xml:id="t1379" n="1379" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1380" n="1380" lemma="remanoir" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s" >remaine</w>
+                        <w xml:id="t1381" n="1381" lemma="tant" pos="ADVgen" msd="DEGRE=-" >tant</w>
+                        <w xml:id="t1382" n="1382" lemma="que4" pos="CONsub" msd="MORPH=empty" >qu</w>
+                        <w xml:id="t1383" n="1383" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1384" n="1384" lemma="estre1" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s" >soit</w>
+                        <w xml:id="t1385" n="1385" lemma="un" pos="DETdem" msd="NOMB.=s|GENRE=m" >ung</w>
+                        <w xml:id="t1386" n="1386" lemma="poi" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=n" >peu</w>
+                        <w xml:id="t1387" n="1387" lemma="trespasser" pos="VERcjg" msd="NOMB.=s|GENRE=f|CAS=n" >trespasse</w>
+                        <w xml:id="t1388" n="1388" lemma="de" pos="PRE" msd="MORPH=empty" >de</w>
+                        <w xml:id="t1389" n="1389" lemma="son4" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=f|CAS=r" >ses</w>
+                        <w xml:id="t1390" n="1390" lemma="plaie1" pos="NOMcom" msd="NOMB.=p|GENRE=f|CAS=r" >plaies</w>
+                        <w xml:id="t1391" n="1391" lemma="mais1" pos="CONcoo" msd="MORPH=empty" >mais</w>
+                        <w xml:id="t1392" n="1392" lemma="ne1" pos="ADVneg" msd="MORPH=empty" >ne</w>
+                        <w xml:id="t1393" n="1393" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i" >lui</w>
+                        <w xml:id="t1394" n="1394" lemma="voloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s" >uoult</w>
+                        <w xml:id="t1395" n="1395" lemma="otroiier" pos="VERinf" msd="MORPH=empty" >octroier</w>
+                        <w xml:id="t1396" n="1396" lemma="et" pos="CONcoo" msd="MORPH=empty" >et</w>
+                        <w xml:id="t1397" n="1397" lemma="a3" pos="PRE" msd="MORPH=empty" >a</w>
+                        <w xml:id="t1398" n="1398" lemma="grant" pos="ADJqua" msd="NOMB.=s|GENRE=f|CAS=r|DEGRE=p" >grant</w>
+                        <w xml:id="t1399" n="1399" lemma="force2" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >force</w>
+                        <w xml:id="t1400" n="1400" lemma="remanoir" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >remest</w>
+                        <w xml:id="t1401" n="1401" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1402" n="1402" lemma="jusque" pos="ADVgen" msd="NOMB.=p|DEGRE=-" >iusques</w>
+                        <w xml:id="t1403" n="1403" lemma="après" pos="PRE" msd="DEGRE=-" >apres</w>
+                        <w xml:id="t1404" n="1404" lemma="mangier" pos="VERinf" msd="MORPH=empty" >mangier</w>
+                        <w xml:id="t1405" n="1405" lemma="et" pos="CONcoo" msd="MORPH=empty" >Et</w>
+                        <w xml:id="t1406" n="1406" lemma="cant1" pos="CONsub" msd="MORPH=empty" >quant</w>
+                        <w xml:id="t1407" n="1407" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1408" n="1408" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >ot</w>
+                        <w xml:id="t1409" n="1409" lemma="mangier" pos="VERppe" msd="NOMB.=s|GENRE=f|CAS=r" >mangie</w>
+                        <w xml:id="t1410" n="1410" lemma="si" pos="ADVgen" msd="DEGRE=-" >si</w>
+                        <w xml:id="t1411" n="1411" lemma="ne1" pos="ADVneg" msd="MORPH=empty" >n</w>
+                        <w xml:id="t1412" n="1412" lemma="i2" pos="PROadv" msd="MORPH=empty" >y</w>
+                        <w xml:id="t1413" n="1413" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >ot</w>
+                        <w xml:id="t1414" n="1414" lemma="mestier" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >mestier</w>
+                        <w xml:id="t1415" n="1415" lemma="priiere" pos="ADJqua" msd="NOMB.=s|GENRE=f|CAS=r" >priere</w>
+                        <w xml:id="t1416" n="1416" lemma="ainz" pos="ADVgen" msd="DEGRE=-" >ains</w>
+                        <w xml:id="t1417" n="1417" lemma="son4" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=r" >s</w>
+                        <w xml:id="t1418" n="1418" lemma="ame" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >arme</w>
+                        <w xml:id="t1419" n="1419" lemma="et" pos="CONcoo" msd="MORPH=empty" >et</w>
+                        <w xml:id="t1420" n="1420" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=r" >le</w>
+                        <w xml:id="t1421" n="1421" lemma="novel" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=n" >nouueau</w>
+                        <w xml:id="t1422" n="1422" lemma="chevalier" pos="ADJqua" msd="NOMB.=s|GENRE=m|CAS=n" >cheualier</w>
+                        <w xml:id="t1423" n="1423" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i" >lui</w>
+                        <w xml:id="t1424" n="1424" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >dist</w>
+                        <w xml:id="t1425" n="1425" lemma="seignor" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=n" >Sire</w>
+                        <w xml:id="t1426" n="1426" lemma="puis" pos="ADVgen" msd="DEGRE=-" >puis</w>
+                        <w xml:id="t1427" n="1427" lemma="que4" pos="CONsub" msd="MORPH=empty" >que</w>
+                        <w xml:id="t1428" n="1428" lemma="vos" pos="PROper" msd="PERS.=2|NOMB.=p|GENRE=m|CAS=n" >uous</w>
+                        <w xml:id="t1429" n="1429" lemma="en2" pos="PROadv" msd="MORPH=empty" >en</w>
+                        <w xml:id="t1430" n="1430" lemma="aler" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=p" >alez</w>
+                        <w xml:id="t1431" n="1431" lemma="si" pos="ADVgen" msd="DEGRE=-" >si</w>
+                        <w xml:id="t1432" n="1432" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=r" >me</w>
+                        <w xml:id="t1433" n="1433" lemma="dire" pos="VERcjg" msd="MODE=imp|NOMB.=p" >dictes</w>
+                        <w xml:id="t1434" n="1434" lemma="vostre" pos="VERppe" msd="PERS.=3" >uoustᵉ</w>
+                        <w xml:id="t1435" n="1435" lemma="plaisir" pos="NOMcom" msd="NOMB.=s|CAS=r" >plaisir</w>
+                        <w xml:id="t1436" n="1436" lemma="que4" pos="CONsub" msd="MORPH=empty" >qu</w>
+                        <w xml:id="t1437" n="1437" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1438" n="1438" lemma="vos" pos="PROper" msd="PERS.=2|NOMB.=p|GENRE=m|CAS=i" >uous</w>
+                        <w xml:id="t1439" n="1439" lemma="plaire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s" >plaist</w>
+                        <w xml:id="t1440" n="1440" lemma="que2" pos="CONsub" msd="MORPH=empty" >que</w>
+                        <w xml:id="t1441" n="1441" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n" >ie</w>
+                        <w xml:id="t1442" n="1442" lemma="dire" pos="VERcjg" msd="MODE=sub|PERS.=1|NOMB.=s" >die</w>
+                        <w xml:id="t1443" n="1443" lemma="a3" pos="PRE" msd="MORPH=empty" >a</w>
+                        <w xml:id="t1444" n="1444" lemma="mon1" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f|CAS=r" >ma</w>
+                        <w xml:id="t1445" n="1445" lemma="dame" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r" >dãe</w>
+                        <w xml:id="t1446" n="1446" lemma="et" pos="CONcoo" msd="MORPH=empty" >Et</w>
+                        <w xml:id="t1447" n="1447" lemma="se" pos="CONsub" msd="MORPH=empty" >s</w>
+                        <w xml:id="t1448" n="1448" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n" >il</w>
+                        <w xml:id="t1449" n="1449" lemma="vos" pos="VERcjg" msd="PERS.=2|NOMB.=p|GENRE=m|CAS=i" >uous</w>
+                        <w xml:id="t1450" n="1450" lemma="plaire" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s" >plaisoit</w>
+                        <w xml:id="t1451" n="1451" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n" >ie</w>
+                        <w xml:id="t1452" n="1452" lemma="savoir" pos="VERcjg" msd="MODE=con|PERS.=1|NOMB.=s|GENRE=f" >sauroie</w>
+                        <w xml:id="t1453" n="1453" lemma="volentiers" pos="ADVgen" msd="CAS=n|DEGRE=c" >uoulentiers</w>
+                        <w xml:id="t1454" n="1454" lemma="vostre" pos="DETpos" msd="PERS.=2|NOMB.=s|GENRE=m|CAS=r" >uoustre</w>
+                        <w xml:id="t1455" n="1455" lemma="nom" pos="NOMcom" msd="GENRE=m|CAS=r" >nom</w>
+                        <w xml:id="t1456" n="1456" lemma="que4" pos="CONsub" msd="MORPH=empty" >que</w>
+                        <w xml:id="t1457" n="1457" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n" >ie</w>
+                        <w xml:id="t1458" n="1458" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r" >le</w>
+                        <w xml:id="t1459" n="1459" lemma="pöoir" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s" >peusse</w>
+                        <w xml:id="t1460" n="1460" lemma="dire" pos="VERinf" msd="MORPH=empty" >dire</w>
+                        <w xml:id="t1461" n="1461" lemma="a3" pos="PRE" msd="MORPH=empty" >a</w>
+                        <w xml:id="t1462" n="1462" lemma="cel" pos="PROdem" msd="NOMB.=p|GENRE=m|CAS=r" >ceulx</w>
+                        <w xml:id="t1463" n="1463" lemma="que2" pos="PROrel" msd="NOMB.=p|GENRE=m" >qͥ</w>
+                        <w xml:id="t1464" n="1464" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=i" >m</w>
+                        <w xml:id="t1465" n="1465" lemma="en2" pos="PROadv" msd="MORPH=empty" >en</w>
+                        <w xml:id="t1466" n="1466" lemma="demander" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p" >demanderont</w>
+                        <w xml:id="t1467" n="1467" lemma="qui" pos="PROrel" msd="NOMB.=s|GENRE=m|CAS=n" >qui</w>
+                        <w xml:id="t1468" n="1468" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=i" >me</w>
+                        <w xml:id="t1469" n="1469" lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >fist</w>
+                        <w xml:id="t1470" n="1470" lemma="chevalier" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >cheualier</w>
+                        <w xml:id="t1471" n="1471" lemma="si" pos="ADVgen" msd="DEGRE=-" >si</w>
+                        <w xml:id="t1472" n="1472" lemma="en2" pos="PROadv" msd="MORPH=empty" >en</w>
+                        <w xml:id="t1473" n="1473" lemma="estre1" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s" >seroit</w>
+                        <w xml:id="t1474" n="1474" lemma="mon1" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n" >mon</w>
+                        <w xml:id="t1475" n="1475" lemma="cuer2" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=n" >cuer</w>
+                        <w xml:id="t1476" n="1476" lemma="plus" pos="ADVgen" msd="DEGRE=c" >plus</w>
+                        <w xml:id="t1477" n="1477" lemma="aise" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=n|DEGRE=p" >aise</w>
+                        <w xml:id="t1478" n="1478" lemma="tot" pos="ADVgen" msd="DEGRE=-" >Tout</w>
+                        <w xml:id="t1479" n="1479" lemma="sore" pos="ADVgen" msd="DEGRE=-" >seure</w>
+                        <w xml:id="t1480" n="1480" lemma="maint" pos="OUT" msd="MODE=ind|PERS.=3|NOMB.=s" >ment</w>
+                        <w xml:id="t1481" n="1481" lemma="dire" pos="NOMcom" msd="NOMB.=p|GENRE=f|CAS=n" >dictes</w>
+                        <w xml:id="t1482" n="1482" lemma="a3" pos="PRE" msd="MORPH=empty" >a</w>
+                        <w xml:id="t1483" n="1483" lemma="cel" pos="PROdem" msd="NOMB.=p|GENRE=m|CAS=r" >ceulx</w>
+                        <w xml:id="t1484" n="1484" lemma="qui" pos="PROrel" msd="NOMB.=p|GENRE=m|CAS=n" >qui</w>
+                        <w xml:id="t1485" n="1485" lemma="vos" pos="PROper" msd="PERS.=2|NOMB.=p|GENRE=m|CAS=i" >uous</w>
+                        <w xml:id="t1486" n="1486" lemma="demander" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p" >demanderont</w>
+                        <w xml:id="t1487" n="1487" lemma="que4" pos="CONsub" msd="MORPH=empty" >que</w>
+                        <w xml:id="t1488" n="1488" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=p|GENRE=m|CAS=n" >g</w>
+                        <w xml:id="t1489" n="1489" lemma="." pos="PONfrt" msd="MORPH=empty" >.</w>
+                        <w xml:id="t1490" n="1490" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=n" >le</w>
+                        <w xml:id="t1491" n="1491" lemma="nevo" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >nieps</w>
+                        <w xml:id="t1492" n="1492" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=n" >le</w>
+                        <w xml:id="t1493" n="1493" lemma="roi2" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >roy</w>
+                        <w xml:id="t1494" n="1494" lemma="Artu" pos="VERppe" msd="NOMB.=s|GENRE=m|CAS=r" >artu</w>
+                        <w xml:id="t1495" n="1495" lemma="vos" pos="PROper" msd="PERS.=2|NOMB.=p|GENRE=m|CAS=i" >uous</w>
+                        <w xml:id="t1496" n="1496" lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s" >fist</w>
+                        <w xml:id="t1497" n="1497" lemma="char1" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r" >chlr̃</w>
+                       </ab>
+            </div>
+       </body>
+     </text>
+</TEI>
